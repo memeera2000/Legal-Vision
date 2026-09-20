@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Persisted vector store
+chroma_store/
+
+# Uploaded/temp artifacts
+temp/*.py
+temp/*.txt
+temp/*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
