@@ -1,0 +1,73 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of January 1, 2025 ("Effective Date") by and between:
+
+ACME CORPORATION, a Delaware corporation with its principal place of business at 123 Business Ave, San Francisco, CA 94105 ("Company"), and
+
+BETA SOLUTIONS LLC, a limited liability company organized under the laws of New York, with its principal office at 456 Tech Street, New York, NY 10001 ("Recipient").
+
+Company and Recipient may be referred to individually as a "Party" and collectively as the "Parties."
+
+1. PURPOSE
+The Parties wish to explore a potential business relationship concerning the development and licensing of artificial intelligence software tools ("Purpose"). In connection with the Purpose, each Party may disclose to the other certain confidential and proprietary information.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any data or information, oral or written, that is disclosed by either Party to the other Party, including but not limited to: trade secrets, inventions, patent applications, computer programs, algorithms, customer lists, financial data, marketing plans, product roadmaps, and any other information that is marked as "Confidential" or that a reasonable person would consider confidential.
+
+3. OBLIGATIONS OF RECEIVING PARTY
+The Receiving Party agrees to:
+(a) hold all Confidential Information in strict confidence;
+(b) not disclose Confidential Information to any third party without prior written consent;
+(c) use the Confidential Information solely for the Purpose;
+(d) restrict disclosure to employees or contractors who have a need to know and who are bound by obligations of confidentiality no less restrictive than those contained herein.
+
+4. EXCLUSIONS
+Confidential Information does not include information that:
+(a) is or becomes publicly available through no fault of the Receiving Party;
+(b) was known to the Receiving Party prior to disclosure;
+(c) is independently developed by the Receiving Party without use of Confidential Information;
+(d) is rightfully received from a third party without restriction.
+
+5. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and shall continue for a period of two (2) years, unless earlier terminated by either Party upon thirty (30) days' written notice to the other Party. The obligations of confidentiality shall survive termination for a period of three (3) years.
+
+6. RETURN OF MATERIALS
+Upon termination or expiration of this Agreement, or upon request, each Party shall promptly return or destroy all Confidential Information and all copies thereof.
+
+7. NO LICENSE
+Nothing in this Agreement grants the Receiving Party any license or rights to the Confidential Information except the limited right to review for the Purpose.
+
+8. REMEDIES
+Each Party acknowledges that a breach of this Agreement may cause irreparable harm for which monetary damages would be inadequate. Accordingly, either Party may seek injunctive relief in addition to any other remedies available at law or in equity.
+
+9. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles.
+
+10. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements, understandings, and negotiations, both written and oral.
+
+11. SEVERABILITY
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+12. AMENDMENTS
+This Agreement may not be amended or modified except by a written instrument signed by both Parties.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+
+_________________________________
+ACME CORPORATION
+
+By: _____________________________
+Name: John Smith
+Title: Chief Technology Officer
+Date: January 1, 2025
+
+
+_________________________________
+BETA SOLUTIONS LLC
+
+By: _____________________________
+Name: Jane Doe
+Title: Managing Partner
+Date: January 1, 2025
